@@ -12,7 +12,6 @@ A simple date picker<br>
     [picker show];
 ```
 ##Picker show
-
+![Image has gone](https://github.com/bbloveccgxy/GGDatePicker/blob/master/Image/Image.png?raw=true "GGDatePicker")
 ##Problems
 It seems that set hour and minutes has some problems, I will try to fix them in a few days. 
-
