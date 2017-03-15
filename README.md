@@ -1,7 +1,7 @@
 # GGDatePicker
-##Breif Introduction
+## Breif Introduction
 A simple date picker<br>
-##Usage
+## Usage
 ```objective-c
 	GGDatePicker *picker = [GGDatePicker createWithCompletion:^(NSString *string){
         NSLog(@"%@",string);
@@ -11,7 +11,7 @@ A simple date picker<br>
     picker.endYear(2018).endMonth(3).endDay(2);
     [picker show];
 ```
-##Picker show
+## Picker show
 ![Image has gone](https://github.com/bbloveccgxy/GGDatePicker/blob/master/Image/Image.png?raw=true "GGDatePicker")
-##Problems
+## Problems
 It seems that set hour and minutes has some problems, I will try to fix them in a few days. 
