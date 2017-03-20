@@ -397,7 +397,7 @@
                     isDay = end_day > start_day && end_day < 32;
                 }
                 else {
-                    isDay = start_day > 0 && start_day < 32;
+                    isDay = end_day > 0 && end_day < 32;
                 }
                 
                 if (isYear && isMonth && isDay) {
@@ -443,7 +443,7 @@
                     isDay = end_day > start_day && end_day < 32;
                 }
                 else {
-                    isDay = start_day > 0 && start_day < 32;
+                    isDay = end_day > 0 && end_day < 32;
                 }
                 
                 BOOL isHour;
